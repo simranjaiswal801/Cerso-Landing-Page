@@ -18,6 +18,8 @@ https://simranjaiswal801.github.io/Cerso-Landing-Page/
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46be2ad5-071c-431e-9622-76105c5e1886" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/111528d3-9222-4fe6-958a-c39d6ea3419f" />
+
 
 
 
