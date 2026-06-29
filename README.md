@@ -14,7 +14,8 @@ https://simranjaiswal801.github.io/Cerso-Landing-Page/
 
 ## 📸 Preview
 
-> Add a screenshot of your landing page here after uploading it to GitHub.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0cb684f-41d8-4796-be14-d18e935425d6" />
+
 
 
 
